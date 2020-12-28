@@ -7,7 +7,6 @@ import Following from './Pages/Following';
 import { View } from 'react-native';
 import CommingSoon from './Pages/CommingSoon';
 import colors from './styles/colors';
-import { color } from 'react-native-reanimated';
 
 const { Navigator, Screen } = createBottomTabNavigator();
 
